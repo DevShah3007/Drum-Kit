@@ -1,5 +1,5 @@
 # Drum-Kit
-Some musical website 🎶
+A musical website 🎶
 
 Fond of Drum beats? Wish you could make your own drum beats?
 
